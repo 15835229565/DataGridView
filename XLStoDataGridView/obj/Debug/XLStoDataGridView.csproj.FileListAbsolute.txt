@@ -1,0 +1,9 @@
+C:\TFS\XLStoDataGridView\XLStoDataGridView\bin\Debug\XLStoDataGridView.exe.config
+C:\TFS\XLStoDataGridView\XLStoDataGridView\bin\Debug\XLStoDataGridView.exe
+C:\TFS\XLStoDataGridView\XLStoDataGridView\bin\Debug\XLStoDataGridView.pdb
+C:\TFS\XLStoDataGridView\XLStoDataGridView\obj\Debug\XLStoDataGridView.csprojResolveAssemblyReference.cache
+C:\TFS\XLStoDataGridView\XLStoDataGridView\obj\Debug\XLStoDataGridView.Form1.resources
+C:\TFS\XLStoDataGridView\XLStoDataGridView\obj\Debug\XLStoDataGridView.Properties.Resources.resources
+C:\TFS\XLStoDataGridView\XLStoDataGridView\obj\Debug\XLStoDataGridView.csproj.GenerateResource.Cache
+C:\TFS\XLStoDataGridView\XLStoDataGridView\obj\Debug\XLStoDataGridView.exe
+C:\TFS\XLStoDataGridView\XLStoDataGridView\obj\Debug\XLStoDataGridView.pdb
